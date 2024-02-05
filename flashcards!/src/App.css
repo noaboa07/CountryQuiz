@@ -1,0 +1,35 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  background-image: url('http://eskipaper.com/images/beautiful-scenery-2.jpg');
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  margin-bottom: 10px;
+  font-family: 'Arial', sans-serif;
+  font-size: 40px; /* Increase the font size */
+  color: #fff; /* Change the font color to white */
+}
+
+p {
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  font-size: 24px; /* Increase the font size */
+  color: #fff; /* Change them font color to white */
+}
+
+.next-button {
+  margin-top: 20px;
+  padding: 10px 20px; /* Increase the padding */
+  font-size: 24px; /* Increase the font size */
+  border: none;
+  background-color: #007BFF;
+  color: #fff;
+  cursor: pointer;
+}
