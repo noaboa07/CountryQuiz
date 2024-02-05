@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='C:\Users\Noah\github-classroom\COP4808-Spring2024-Full-Stack-Webdev\hw2-noaboa07\flashcards!\src\assets\Untitled Project.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='flashcards!\src\assets\Project 2 GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with VEED.io 
